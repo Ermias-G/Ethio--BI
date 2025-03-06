@@ -5,8 +5,7 @@ This project analyzes Adidas sales performance across regions, product categorie
 
 ## Tools Used
 - Power BI
-- DAX (Data Analysis Expressions)
-- SQL
+- DAX 
 - Excel
 
 ## Features
