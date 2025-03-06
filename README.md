@@ -16,7 +16,8 @@ This project analyzes CAR SALES performance across regions, product categories, 
 - Trend analysis.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/3a507a98-d4c0-45d7-a7bc-01b17815a3d8)
+![image](https://github.com/user-attachments/assets/4c2b6a81-3833-4613-8a91-5c71d682e5b4)
+
 
 
 
